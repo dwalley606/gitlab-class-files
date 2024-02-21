@@ -21,7 +21,8 @@ main {
 }
 
 .card {
-  flex: 1 0 0;
+  display: flex;
+  flex-wrap: wrap;
   padding: 10px;
   text-align: center;
   border-style: solid;
